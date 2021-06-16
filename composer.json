@@ -1,0 +1,15 @@
+{
+    "name":"htdocs/airtonapp",
+    "autoload":{
+        "psr-4":{
+            "Source\\":"source/"
+            },
+            "files":[
+                "source/Config.php",
+                "source/Helpers.php"
+            ]
+        },
+        "require": {
+     
+        }
+    }
